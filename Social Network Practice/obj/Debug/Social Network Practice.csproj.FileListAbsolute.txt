@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Social Network Practice\Social Network Practice\bin\Debug\Social Network Practice.exe.config
+C:\Users\Admin\source\repos\Social Network Practice\Social Network Practice\bin\Debug\Social Network Practice.exe
+C:\Users\Admin\source\repos\Social Network Practice\Social Network Practice\bin\Debug\Social Network Practice.pdb
+C:\Users\Admin\source\repos\Social Network Practice\Social Network Practice\obj\Debug\Social Network Practice.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Social Network Practice\Social Network Practice\obj\Debug\Social Network Practice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Social Network Practice\Social Network Practice\obj\Debug\Social Network Practice.exe
+C:\Users\Admin\source\repos\Social Network Practice\Social Network Practice\obj\Debug\Social Network Practice.pdb
